@@ -5,7 +5,8 @@ This is a back-end based school project, all code source is <span style="color:r
 
 ## Demo & Report:
 
-Please read Project Report.pdf
+Please read Project Report.pdf [here](./Project%20Report.pdf)
+
 
 ## architecture diagram:
 
